@@ -1,4 +1,5 @@
 # FAM CTF – Security CTF Write-ups
+![FamPay CTF Scoreboard](./assets/scoreboard.png)
 
 # FamPay NexaVault CTF - Security Methodology & Write-ups
 **Author:** Krishna Prajapat | **Score:** 1850/1850 (100% Solved) | **Rank:** 70th
